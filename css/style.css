@@ -242,6 +242,12 @@ section h2 {
 .portfolio .projects .project .project-details p {
   color: #fff;
 }
+.portfolio .projects .project .project-image {
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: top;
+}
 
 .contact {
   padding: 20px 0;
