@@ -158,7 +158,14 @@ section h2 {
   color: #4d4d4d;
   text-align: justify;
 }
-
+.centerimage {
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
 .portfolio {
   background: #1f0029;
   background: -moz-linear-gradient(top, #1f0029 0%, #000111 100%);
