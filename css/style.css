@@ -68,6 +68,9 @@ section h2 {
   font-size: 5em;
   text-shadow: 5px 2px #2d2d2d;
 }
+.intro .content .header-group .header-title img {
+  width: 100%;
+}
 .intro .content .header-group span {
   color: #eaeaea;
   font-size: 1.8em;
